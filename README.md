@@ -9,5 +9,6 @@ El sitio deberá contener:
     Una página con las 5 películas favoritas deberá incluir póster de la película, reseña y titulo.
     Una página con las 5 series de TV favoritas deberá incluir imagen de la serie, reseña y titulo.
     Una página con los 5 libros favoritos deberá incluir portada, reseña y titulo.
+    Una página con los datos del alumno, grupo, grado, nombre completo.
 
 Las páginas deberán contener CSS.
